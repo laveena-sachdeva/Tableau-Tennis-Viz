@@ -21,7 +21,7 @@ I went ahead with a bar chart, which I think is a simple yet effective medium of
  
 # Design Decisions:
 •	As stated above, I chose to use a bar graph because it is a simple yet effective tool while comparing stats of two entities.  
-•	The title of the chart ‘WHO “ACED” THE MATCH?” along with the players’ pictures tries to give a good entry point to the visualization to let the reader know that the chart goes on to compare the Aces between Rafael Nadal and Roger Federer without even reading the detailed title.  
+•	The title of the chart ‘WHO “ACED” THE MATCH?” gives a good entry point to the visualization to let the reader know that the chart goes on to compare the Aces between Rafael Nadal and Roger Federer without even reading the detailed title.  
 •	Since I am depicting ‘Defensive’ v/s ‘Attacking’ behavior, I chose to use cold and warm colors respectively to bring out that contrast. Also, since games in the match (represented by stacks of the bar) are sequential (though they can be categorized as distinct games, but they will always occur in a particular sequence), I have used a sequence of cold shades for the defensive player (Rafael Nadal) and sequence of warm shades for the attacking player (Roger Federer).  
 •	Since it is easy to compare size of two elements to have an approximate comparison, I have scaled the size of each stack of the bar by the number of Aces hit by the player in that particular game.  
 •	For the legend, since there are 14 distinct variables to be indicated, I have kept the colors representing the same attributes together so that it is easier to compare the corresponding game of each player and also the visualization/legend looks simpler and less cluttered.    
